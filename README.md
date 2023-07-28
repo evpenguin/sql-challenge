@@ -22,6 +22,7 @@ Download data and EmployeeSQL folders. In Postgres, run schema.sql. Then import 
 - dept_emp
 - dept_manager
 - salaries
+
 This order in necessary to avoid missing foreign key dependencies.
 Then run each query in analysis.sql at will. 
 
